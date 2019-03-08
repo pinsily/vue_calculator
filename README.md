@@ -1,29 +1,9 @@
-# calculator
+### 说明
 
-## Project setup
-```
-npm install
-```
+单纯练手项目 vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+教程视频来源：https://www.youtube.com/watch?v=m1_ih43p24s
 
-### Compiles and minifies for production
-```
-npm run build
-```
+实现效果:
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![demo](./demo.png)
